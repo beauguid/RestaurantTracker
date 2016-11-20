@@ -1,0 +1,77 @@
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\bin\Debug\RestaurantP.exe
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\bin\Debug\RestaurantP.pdb
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.MainForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Properties.Resources.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Splash.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csproj.GenerateResource.Cache
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.exe
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.pdb
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.KitchenForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csprojResolveAssemblyReference.cache
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ReceptionistForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\ASP.NET\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ManagerForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.exe
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.pdb
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\bin\Debug\RestaurantP.exe
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\bin\Debug\RestaurantP.pdb
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.MainForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.KitchenForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ManagerForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Properties.Resources.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ReceptionistForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Splash.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csproj.GenerateResource.Cache
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csprojResolveAssemblyReference.cache
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.AddCategory.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.exe
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.pdb
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.exe
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.pdb
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csprojResolveAssemblyReference.cache
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.AddCategory.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.MainForm.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.KitchenForm.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ManagerForm.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Properties.Resources.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ReceptionistForm.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Splash.resources
+C:\Users\001332825\Downloads\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csproj.GenerateResource.Cache
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.exe
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.pdb
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.exe
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.pdb
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csprojResolveAssemblyReference.cache
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.AddCategory.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.MainForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.KitchenForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ManagerForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Properties.Resources.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ReceptionistForm.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Splash.resources
+C:\Users\alvarosoto0823\Desktop\Alvarito College\Quater 6\Capstone\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csproj.GenerateResource.Cache
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.exe
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.exe
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.pdb
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csprojResolveAssemblyReference.cache
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.AddCategory.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.MainForm.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.KitchenForm.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ManagerForm.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Properties.Resources.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ReceptionistForm.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Splash.resources
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csproj.GenerateResource.Cache
+C:\Users\001332825\Downloads\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.pdb
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.exe
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.pdb
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.exe
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\bin\Debug\RestaurantP.pdb
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csprojResolveAssemblyReference.cache
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.AddCategory.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.MainForm.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.KitchenForm.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ManagerForm.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Properties.Resources.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.ReceptionistForm.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.Splash.resources
+C:\Users\Beau\Desktop\Beau\RestaurantP-1\RestaurantP\RestaurantP\RestaurantP\RestaurantP\obj\x86\Debug\RestaurantP.csproj.GenerateResource.Cache
